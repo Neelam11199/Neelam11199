@@ -2,6 +2,8 @@
 
 # Neelam Kori
 
+![Description](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZzd2lqMTY4YmFzcDB5NXM1aWRyemxmYWZnemg5Z2hrOWI0eDY4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
+
 **Curious mind. Data-driven heart. Always learning.**
 
 I'm currently an Operations Analyst transitioning into Data Analytics. My technical foundation includes MySQL and a growing proficiency in Python. I am passionate about discovering insights within data and using those insights to drive impactful decisions.
